@@ -15,13 +15,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on The App of our school
+- 🔭 I’m currently working on the game 'Werwölfe'
 
-- 🌱 I’m currently learning How to use Flutter 
+- 🌱 I’m currently learning How to use the Flask module 
 
 - 👯 I’m looking to collaborate on Your Projects, just ask! 
 
-- 💬 Talk to me about everything you want
+- 💬 Talk to me about everything you want, don't mind, if I do not reply at all
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
