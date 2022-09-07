@@ -1,6 +1,9 @@
 ## Spotlight-For-Bugs 
- ![GitHub Snake dark](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/output/github-contribution-grid-snake-dark.svg)
+<a href="#">
  
+ ![GitHub Snake dark](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/output/github-contribution-grid-snake-dark.svg)
+
+</a>
 
 <a href="https://github.com/Spotlightforbugs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
