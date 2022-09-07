@@ -3,7 +3,7 @@ name: Dynamic Template
 on:
   push:
     branches:
-      - main
+      - Pro
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
       - name: "💫  Dynamic Template Render"
         uses: varunsridharan/action-dynamic-readme@main
         with:
-          GLOBAL_TEMPLATE_REPOSITORY: {repository-owner}/{repository-name}
+          GLOBAL_TEMPLATE_REPOSITORY: "{repository-owner}/{repository-name}"
           files: |
             FILE.md
             FILE2.md=output_filename.md
