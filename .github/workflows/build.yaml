@@ -1,2 +1,1 @@
-- name: Purge README Images
-run: make purge
+
