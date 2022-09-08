@@ -1,0 +1,12 @@
+name: kl
+on: push
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.6
+        with:
+          devcard_id: d5b753b04b514343a19a4546892ae5bb 
