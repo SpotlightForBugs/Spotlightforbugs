@@ -1,7 +1,8 @@
 ## Spotlight-For-Bugs 
 <a href="#">
  
- ![GitHub Snake dark](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/output/github-contribution-grid-snake-dark.svg?)
+![GitHub Snake dark](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/output/github-contribution-grid-snake-dark.svg?)
+
 
 </a>
 
@@ -44,10 +45,14 @@ Ich bin Johannes Häusler und Schüler des [Pius Gymnasiums in ](https://pius-gy
 
 
 <a href="#">
-![Card](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/Pro/devcard.svg?)
-<br>
-<br>
+
 
 ![Metrics](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/Pro/github-metrics.svg?)
 
+
+
 </a>
+<br>
+<br>
+<a href="https://app.daily.dev/SlightForBugs"><img src="https://github.com/SpotlightForBugs/Spotlightforbugs/blob/Pro/devcard.svg?" width="200" alt="SpotlightForBugs's Dev Card"/></a>
+
