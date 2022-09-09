@@ -54,5 +54,3 @@ Ich bin Johannes Häusler und Schüler des [Pius Gymnasiums in ](https://pius-gy
 </a>
 <br>
 <br>
-<a href="https://app.daily.dev/SlightForBugs"><img src="https://github.com/SpotlightForBugs/Spotlightforbugs/blob/Pro/devcard.svg?" width="200" alt="SpotlightForBugs's Dev Card"/></a>
-
