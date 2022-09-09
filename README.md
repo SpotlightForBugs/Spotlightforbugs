@@ -49,8 +49,4 @@ Ich bin Johannes Häusler und Schüler des [Pius Gymnasiums in ](https://pius-gy
 
 ![Metrics](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/Pro/github-metrics.svg?)
 
-
-
 </a>
-<br>
-<br>
