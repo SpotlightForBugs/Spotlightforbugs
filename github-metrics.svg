@@ -2639,7 +2639,7 @@ The following vulnerabilities are fixed by pinning transitive dependencies:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2022, 01:56:28 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 20 Dec 2022, 03:12:03 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
