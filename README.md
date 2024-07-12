@@ -35,7 +35,7 @@
 
 
 ### Willkommen auf meinem Github-Profil!  
-Ich bin Johannes Häusler und Schüler des [Pius Gymnasiums in ](https://pius-gymnasium.de/) [Aachen.](https://aachen.de)
+Ich bin Johannes Häusler und angehender Student der Informatik an der FH Aachen. 
   
   
 
