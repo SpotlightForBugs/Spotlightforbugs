@@ -52,4 +52,4 @@ Ich bin Johannes Häusler und angehender Student der Informatik an der FH Aachen
 </a>
 
 
-[erhalte 100$ in Doppler-Credits](https://doppler.com/join?invite=320CBD34)
+
