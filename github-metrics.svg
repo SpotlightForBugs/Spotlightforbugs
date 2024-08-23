@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1957" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1680" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -35,15 +35,15 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 32 repositories
+                            Contributed to 36 repositories
                         </div>
                     </section>
                 </div>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            208 issue comments
+                            209 issue comments
                         </div>
                     </section>
                 </div>
@@ -119,7 +119,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            32 Repositories
+                            34 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -151,7 +151,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    36.2k added, 25.5k removed
+                                    1.64m added, 1.57m removed
                                 </div>
                             </section>
                             <section>
@@ -359,14 +359,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 6 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 181.0 characters per line of code written</li>
-                        <li>Mostly pushes code around 10:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Has approximately 43.7 characters per line of code written</li>
+                        <li>Mostly pushes code around 14:00</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -426,7 +426,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -441,17 +441,17 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             14
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -471,7 +471,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -517,17 +517,17 @@
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -2576,424 +2576,35 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#3812 Fixed a grammar error to enhance readability </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by SpotlightForBugs in <span class="repo">redis/jedis</span></div>
+                                    <div class="comment">@sazzad16 is anything I did wrong?</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 47 commits in
+                                        Pushed 5 commits in
                                         <span class="repo">SpotlightForBugs/jedis</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">patch-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#59eaf34</div>
-                                        <div class="message">Bump com.google.code.gson:gson from 2.10.1 to 2.11.0 (#3842)
-
-Bumps [com.google.code.gson:gson](https://github.com/google/gson) from 2.10.1 to 2.11.0.
-- [Release notes](https://github.com/google/gson/releases)
-- [Changelog](https://github.com/google/gson/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/google/gson/compare/gson-parent-2.10.1...gson-parent-2.11.0)
-
----
-updated-dependencies:
-- dependency-name: com.google.code.gson:gson
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b47b70f</div>
-                                        <div class="message">Remove RediSearch DIALECT 5 support (#3886)
-
-This is partial revert of #3831.
-
-Some changes are still available without dialect 5. For example:
-* Avoid repeating for numeral equality</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2bee0e</div>
-                                        <div class="message">Support RediSearch DIALECT 5 (#3831)
-
-- [x] Avoid escaping at query time
-- [ ] Alias for tag fields (EXACT)
-- [x] Avoid repeating for numeral equality
-- [x] New dialect (5)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5277ed0</div>
-                                        <div class="message">Support FLOAT16 and BFLOAT16 VecSim storage types (#3849)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#856804a</div>
-                                        <div class="message">Test: INTERSECTS and DIJOINT conditions support in GeoSearch (#3862)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec0e4d0</div>
-                                        <div class="message">Support indexing of MISSING and EMPTY values (#3866)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#beb39a1</div>
-                                        <div class="message">Polish #3860: Separate params for TS.INCRBY and TS.DECRBY (#3863)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c0e57d</div>
-                                        <div class="message">Support IGNORE and other optional arguments for timeseries commands (#3860)
-
-* Re-implement TS.ADD command with optional arguments
-* Implement TS.INCRBY and TS.DECRBY commands with optional arguments
-* Support IGNORE argument for TS.[ CREATE | ALTER | ADD | INCRBY | DECRBY] commands
-
----
-
-* Cover optional arguments for timeseries commands
-   - Re-implement TS.ADD command with optional arguments
-   - Implement TS.INCRBY and TS.DECRBY commands with optional arguments
-
-* Introduce EncodingFormat enum for &lt;COMPRESSED|UNCOMPRESSED&gt;
-
-* Support IGNORE option
-   and rename to TSIncrOrDecrByParams</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#780fbc7</div>
-                                        <div class="message">[TEMPORARY] [TEST] Disable FT.PROFILE tests (#3881)
-
-Disable FT.PROFILE tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4fcc36</div>
-                                        <div class="message">Merge doc tests into main branch to keep in-sync with the code (#3861)
-
-* Fix search_quickstart example
-
-* Add data_class step to SearchQuickstartExample
-
-* Update examples with new bikes and align to new tutorial
-
-* Fixes doctests for search tutorial
-
-* Small fixes doctests
-
-* Updates search tutorial doc examples to new format and data
-
-* Fix formatting in doc tests
-
-* Add Hashes and String Example (#3477)
-
-* Add Hashes Example
-
-* Fixes examples for hash tutorial
-
-* Refactor Hash Tutorial to Java 8 (from 17)
-
-* Change indentation to 4 spaces
-
-* Add Strings Example
-
-* Reformat samples to 2-space indentation
-
----------
-
-Co-authored-by: Elena Kolevska &lt;elena@kolevska.com&gt;
-
-* Add Geospatial data type example (#3487)
-
-* Add Geospatial data type example
-
-* Add missing REMOVE_END
-
-* Added example Java code snippets for Streams (#3641)
-
-* Java example code snippets for T-Digest and TopK (#3660)
-
-* Created example for t digest
-
-* Added example for topK
-
----------
-
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.12&gt;
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.11&gt;
-
-* Create Java code snippets for sets redis#3626 (#3661)
-
-* Create Java code snippets for sets redis#3626
-
-* Apply suggestions from code review to add // STEP_END lines.
-
-Co-authored-by: David Dougherty &lt;david.dougherty@redis.com&gt;
-
-* format imports
-
----------
-
-Co-authored-by: David Dougherty &lt;david.dougherty@redis.com&gt;
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-
-* Create Java code snippets for count min sketch (#3644)
-
-* added code snippet for CMS in Java
-
-* Update CMSExample.java
-
-* format spaces
-
-* use cmsIncrBy simple variant
-
-* more format spaces
-
----------
-
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-
-* Added Java code snippets for Bloom #3630  (#3671)
-
-* Added java example for bloom filter
-
-* Removed space
-
-* fix and format imports
-
-* fix compile error
-
-* format spaces
-
-* Add del command and rename obj
-
-* Add del command and fix format
-
-* change to junit assert
-
-* Update BloomFilterExample.java
-
-* Add correct output comment
-
----------
-
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.11&gt;
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.7&gt;
-
-* Added java code snippet for hyperloglog (#3674)
-
-* Added Java code snippet for HyperLogLog
-
-* fix format and imports
-
-* fix spaces
-
-* change to junit assert
-
-* Added correct output comment
-
-* Update HyperLogLogExample.java
-
----------
-
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.7&gt;
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-
-* Added Java code snippets for cuckoo filters (#3679)
-
-* Add CuckooFilterExample
-
-* Add step start comment
-
-* Update CuckooFilterExample.java
-
----------
-
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.7&gt;
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-
-* Create Java code snippet for lists #3625 (#3677)
-
-* Added example Java code snippets for the List#3625
-
-* format spaces
-
----------
-
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-
-* Create Java code snippet for sorted sets  (#3680)
-
-* added an example for SortedSets in java
-
-* Update SortedSetsExample.java
-
-* made changes as per the review.
-
-* Format spaces in SortedSetsExample.java
-
----------
-
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-
-* Added Java code snippet for bitmap  (#3687)
-
-* Add bitmap example
-
-* Change class name
-
-* Add assert for res3 and res4
-
-* Update BitMapsExample.java
-
-* Format spaces in BitMapsExample.java
-
----------
-
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.7&gt;
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: Elena Kolevska &lt;elena@kolevska.com&gt;
-Co-authored-by: Brian Sam-Bodden &lt;bsbodden@integrallis.com&gt;
-Co-authored-by: M Sazzadul Hoque &lt;7600764+sazzad16@users.noreply.github.com&gt;
-Co-authored-by: Harshvardhan Parmar &lt;harshparmar4902@gmail.com&gt;
-Co-authored-by: Ranjeet SIngh &lt;32495484+Ranjeet0611@users.noreply.github.com&gt;
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.12&gt;
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.11&gt;
-Co-authored-by: Suraj &lt;112368828+suraj11chauhan@users.noreply.github.com&gt;
-Co-authored-by: David Dougherty &lt;david.dougherty@redis.com&gt;
-Co-authored-by: Ranjeet Singh &lt;ranjeetsingh@192.168.1.7&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db826a6</div>
-                                        <div class="message">Ensure closing connection in Pipeline (#3865)
-
-even if there is an error in sync method.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#619f8e3</div>
-                                        <div class="message">Revert "Support IGNORE and other optional arguments for timeseries commands (#3860)"
-
-This reverts commit e7503d78f86f166028327e45ae1150bd96f2271b.
-
-The commit e7503d78f86f166028327e45ae1150bd96f2271b is merged (cherry-picked) into 5.2.0 branch by commit ac18fd00fd919b2f1b2294a2311a56d59fffd33c.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7503d7</div>
-                                        <div class="message">Support IGNORE and other optional arguments for timeseries commands (#3860)
-
-* Re-implement TS.ADD command with optional arguments
-* Implement TS.INCRBY and TS.DECRBY commands with optional arguments
-* Support IGNORE argument for TS.[ CREATE | ALTER | ADD | INCRBY | DECRBY] commands
-
----
-
-* Cover optional arguments for timeseries commands
-   - Re-implement TS.ADD command with optional arguments
-   - Implement TS.INCRBY and TS.DECRBY commands with optional arguments
-
-* Introduce EncodingFormat enum for &lt;COMPRESSED|UNCOMPRESSED&gt;
-
-* Support IGNORE option
-   and rename to TSIncrOrDecrByParams</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#811dca0</div>
-                                        <div class="message">Support [S]PUBLISH in pipelines and transactions (#3859)
-
-1. We already have PUBLISH in simple Pipeline.
-2. We have SPUBLISH only in JedisCluster; so it's only added in ClusterPipeline.
-3. We don't have transaction with cluster. So obviously [S]PUBLISH isn't implemented for such case.
-
----
-* Support PUBLISH in Transaction(s)
-
-* Support SPUBLISH in ClusterPipeline</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ca869e</div>
-                                        <div class="message">Address change in JSON.GET command without path (#3858)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36668bc</div>
-                                        <div class="message">Deprecate unused Set&lt;Tuple&gt; builders (#3857)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32d69ad</div>
-                                        <div class="message">Disable Redis Graph tests (#3856)
-
-We use redis-stack-server image to test all module commands. RedisGraph module has been removed from that image.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e597766</div>
-                                        <div class="message">Support Hash field expiration (#3826)
-
-* Support Hash field expiration (Strings)
-
-* Support Hash field expiration (byte[]s)
-
-* Test new hash commands in CommandObjects
-
-* Hash expiration is now supported with listpack
-
-* Address constant FIELDS argument in Hash field expiration commands
-
-* Fix FIELDS place
-
-* Back to using Redis unstable branch
-
-* Modify HFE tests due to changes in server</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#327215a</div>
-                                        <div class="message">Introduce EndpointConfig and load endpoint settings from the endpoints.json file (#3836)
-
-* Let's get the hardcode-removal party started :)
-
-* Fix URLs in endpoints.json
-
-* Use 2 endpoints for different users
-
-* Fix some broken tests
-
-* Remove more hardcoded connection settings
-
-* Fix JedisCommandsTestBase
-
-* Remove unnecessary timeout
-
-* Add missing tls setting to fix SSLACLJedisClusterTest
-
-* Allow supplying custom endpoints config via env variable
-
-*  Introduce EndpointURIBuilder for creating customized URIs
-
-*  Remove getJedis and getConnection methods
-
-*  Improve naming for endpoint variables
-
-* Fix name of endpoint variable in JedisPooledTest
-
-* Add support for endpoints without username
-
-* Improve endpoints naming in AutomaticFailoverTest
-
-* Remove more hardcoded settings from Migrate tests
-
-* Fix comments in SSLACL tests
-
-* Fix endpoint naming in AA failover test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#026d5e4</div>
-                                        <div class="message">Address Gears test fail - Cleanup Function libraries (#3840)
-
-* Check Gears test fail
-
-* Check modules package
-
-* Revert all changes in Makefile
-
-* Cleanup Function libraries</div>
+                                        <div class="sha">#35f7858</div>
+                                        <div class="message">Merge branch 'master' into patch-1</div>
                                     </div>
                                 </div>
                             </section>
@@ -3006,12 +2617,12 @@ We use redis-stack-server image to test all module commands. RedisGraph module h
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 Fixed typo</span>
+                                        <span class="issue">#56 Update Router.svelte</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">sbcshop/HackyPi-Hardware</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div> in <span class="repo">NoRiskClient/noriskclient-launcher</span></div>
+                                    <div>1 file changed <span class="code">++11 --12</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3023,14 +2634,16 @@ We use redis-stack-server image to test all module commands. RedisGraph module h
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SpotlightForBugs/HackyPi-Hardware</span>
+                                        <span class="repo">SpotlightForBugs/noriskclient-launcher</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">patch-1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#69a49ef</div>
-                                        <div class="message">Fixed typo</div>
+                                        <div class="sha">#ace224d</div>
+                                        <div class="message">Update Router.svelte
+
+Slight simplifications of the router</div>
                                     </div>
                                 </div>
                             </section>
@@ -3043,22 +2656,9 @@ We use redis-stack-server image to test all module commands. RedisGraph module h
                                     </svg>
                                     <div class="content">
                                         Forked
-                                        <span class="repo">sbcshop/HackyPi-Hardware</span>
+                                        <span class="repo">NoRiskClient/noriskclient-launcher</span>
                                         to
-                                        <span class="repo">SpotlightForBugs/HackyPi-Hardware</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">bb-Ricardo/fritzinfluxdb</span>
+                                        <span class="repo">SpotlightForBugs/noriskclient-launcher</span>
                                     </div>
                                 </div>
                             </section>
@@ -3068,7 +2668,7 @@ We use redis-stack-server image to test all module commands. RedisGraph module h
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2024, 14:22:56 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2024, 15:16:10 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
