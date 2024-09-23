@@ -1,4 +1,4 @@
-## [SpotlightForBugs ](https://btfl.link/spotlightforbugs)
+## [SpotlightForBugs ](https://bio.link/sfb)
 <a href="#">
  
 ![GitHub Snake dark](https://github.com/SpotlightForBugs/Spotlightforbugs/blob/output/github-contribution-grid-snake-dark.svg?)
