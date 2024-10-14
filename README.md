@@ -35,8 +35,10 @@
 
 
 ### Willkommen auf meinem Github-Profil!  
-Ich bin Johannes Häusler und angehender Student der Informatik an der FH Aachen. 
-  
+Ich bin Johannes Häusler und Student der Informatik an der [FH Aachen](fh-aachen.de) 
+
+### Welcome to my Github-Profile
+I am Johannes Häusler and I am Studying Computer Science at FH Aachen – [University of Applied Sciences](fh-aachen.de)
   
 
 <br/>  
